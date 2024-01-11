@@ -4,4 +4,4 @@ demonstrating some Github features
 
 **bold** *italic*
 
-"link:" [http://www.nebrwesleyan.edu]
+[Nebraska Wesleyan](http://www.nebrwesleyan.edu)
